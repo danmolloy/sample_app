@@ -1,0 +1,1 @@
+This is the sample app for Hartl's Rails tutorial! It will be a microblogging app copying most of twitter's features, because this tutorial is not about creativity, but learning Rails!!!
