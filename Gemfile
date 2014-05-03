@@ -10,7 +10,7 @@ group :test do
 	gem 'capybara'
 end
 
-
+gem 'bcrypt'
 gem 'bootstrap-sass'
 gem 'sprockets'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
